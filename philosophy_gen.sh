@@ -1,13 +1,13 @@
 #!/bin/bash
 #==================================================================
 # Script 5: Philosophy Generator
-# Author: Harshit Mathur | Reg No : 24BCE10220
+# Author: Sarthak Patil | Reg No : 24BCG10138
 # Course: Open Source Software | VIT Bhopal University
 # Purpose: Generate a manifesto based on user input
 #==================================================================
 
 # --- Variables ---
-STUDENT_NAME="Harshit Mathur"
+STUDENT_NAME="Sarthak Patil"
 SOFTWARE_CHOICE="Python"
 OUTPUT_FILE="manifesto_report.txt"
 
