@@ -7,8 +7,8 @@
 #==================================================================
 
 # --- Variables ---
-STUDENT_NAME="Harshit Mathur" 
-REG_NUMBER="24BCE10220"      
+STUDENT_NAME="Sarthak Patil" 
+REG_NUMBER="24BCG10138"      
 SOFTWARE_CHOICE="Python"             
 
 # --- System info ---
