@@ -1,7 +1,7 @@
 #!/bin/bash
 #==================================================================
 # Script 3: Disk and Permission Auditor
-# Author: Harshit Mathur | Reg No : 24BCE10220
+# Author: Sarthak Patil | Reg No : 24BCG10138
 # Course: Open Source Software | VIT Bhopal University
 # Purpose: Check disk usage and file permissions
 #==================================================================
