@@ -1,7 +1,7 @@
 #!/bin/bash
 #==================================================================
 # Script 2: FOSS Package Inspector
-# Author : Harshit Mathur | Reg No : 24BCE10220
+# Author :Sarthak Patil | Reg No : 24BCG10138
 # Course : Open Source Software | VIT Bhopal University
 # Purpose: Check if a package is installed and print its details
 #==================================================================
